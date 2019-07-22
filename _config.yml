@@ -8,8 +8,8 @@ description: Tighting the know between Earth Observation and You
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/elipapa-calder-logo-circ-invert.png
-logo: assets/images/elipapa-calder-logo-circ-invert.png
+picture: assets/images/Logo_small.png
+logo: assets/images/Logo_small.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
