@@ -1,6 +1,6 @@
 ---
-title: Open Targets Genetics
+title: MadridCentral
 externalLink: https://genetics.opentargets.io
 order: 1
 ---
-Map genetic variant to genes and diseases using functional genomics data.
+Mapa explicativo que muestra los valores de NO2 por Barrio en Madrid.
