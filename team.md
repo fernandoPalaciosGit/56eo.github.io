@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: default
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
