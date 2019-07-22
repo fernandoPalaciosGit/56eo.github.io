@@ -1,9 +1,9 @@
 # main text of home
-name: Eliseo Papa
-bio: Biomedical engineer, computational biologist, doctor
+name: 56EO
+bio: Expanding knowledge to assess your needs
 
 # twitter summary info
-description: Eliseo Papa's thoughts, ideas and projects. Here so they can be safely ignored.
+description: Tighting the know between earth observation and you
 
 # if it's an external image, update below for true
 # better with square images
@@ -13,9 +13,9 @@ logo: assets/images/elipapa-calder-logo-circ-invert.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://elipapa.github.io/mycv/extended
+team: true
+team-external: true
+team-url: https://elipapa.github.io/mycv/extended
 
 url: https://elipapa.github.io
 # your url: http://USERNAME.github.io

@@ -30,9 +30,9 @@
             {% endif %}
         {% endif %}
 
-        {% if site.resume == true %}
+        {% if site.team == true %}
             <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Team</a>
+                <a class="link" href="{% if site.team-external %}{{ site.team-url }}{% else %}{{ team.url }}/{{ site.team-url }}{% endif %}">Team</a>
             </li>
         {% endif %}
     </ul>
