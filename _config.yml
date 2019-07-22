@@ -56,12 +56,12 @@ github: 56eo
 # email: myemail@gmail.com
 
 authors:
-    elipapa:
-        name: Eliseo Papa
-        bio: Biomedical engineer, computational biologist, doctor
+    56eo:
+        name: 56eo
+        bio: Expanding Knowledge Through Earth Observation
         external-image: false
         picture: assets/images/elipapa-calder-logo-circ-invert.png
-        twitter: elipapa
+        twitter: 56eo
 
 collections:
   work:
