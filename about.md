@@ -9,12 +9,7 @@ We analyze air quality in order to
 ## Expertise
 * Remote Sensing
 * machine learning
-* sequencing pipelines (16S, NGS)
-* human microbiome
-* medicine
-* immunology
-* drug development
-* software project management
+
 
 ![]({{ site.url }}/assets/images/workshape.png)
 
