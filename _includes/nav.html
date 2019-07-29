@@ -31,9 +31,11 @@
         {% endif %}
 
         {% if site.team == true %}
-            <li class="item">
-                <a class="link" href="{% if site.team-external %}{{ site.team-url }}{% else %}{{ team.url }}/{{ site.team-url }}{% endif %}">Team</a>
-            </li>
+            {% if page.title != "Team" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/team">Team</a>
+                </li>
+            {% endif %}
         {% endif %}
     </ul>
 </nav>

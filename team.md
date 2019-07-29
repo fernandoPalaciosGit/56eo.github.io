@@ -1,29 +1,15 @@
 ---
-title: About
-layout: post
+title: Team
+layout: team
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-We analyze air quality in order to
+## Mario Palacios Landi
+* CEO & founder. He is a mapmaker  and longtime engineer professional. At 56EO, he leads the initiative for innovative applications in earth observation, which supports stakeholders in applying satellite mapping tools to relevant problems in areas such as environmental conservation and sustainable society by air quality management. He was involved in creative scenarios as coordinator and technician researching with drone image processing algorithms and thermal image recognition devices. He has been exercising  3D technology and geomatic tools in different fields of engineering, especially hydrology, hydraulics, urban and transport for more than 4 years in the private sector in Spain. He is also an active lecturer at seminars where geomatics and civil works find a synergy space in Madrid (UPM). Mario studied a master's degree from University of Zurich (ETH) in Urban design and a bachelor's degree from University of Madrid (UPM) in civil engineering.
 
-## Expertise
-* Remote Sensing
-* machine learning
+---
 
-
-![]({{ site.url }}/assets/images/workshape.png)
-
-
-## Computing stack
-* Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
-* Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter.
-* Strong experience with REST APIs.
-* Linux - Git, bash/zsh, sge/torque/pbs, CI(travis/wercker), vagrant, ansible.
-* Cloud - Copernicus Wekeo, Google
-* Containers - docker, kubernetes, ECS
-* ETL - FME Server
-* Backends - PostgreSQL, sqlite
-
+## Roberto Beth
+* CEO & founder. He is a mapmaker  and longtime engineer professional. At 56EO, he leads the initiative for innovative applications in earth observation, which supports stakeholders in applying satellite mapping tools to relevant problems in areas such as environmental conservation and sustainable society by air quality management. He was involved in creative scenarios as coordinator and technician researching with drone image processing algorithms and thermal image recognition devices. He has been exercising  3D technology and geomatic tools in different fields of engineering, especially hydrology, hydraulics, urban and transport for more than 4 years in the private sector in Spain. He is also an active lecturer at seminars where geomatics and civil works find a synergy space in Madrid (UPM). Mario studied a master's degree from University of Zurich (ETH) in Urban design and a bachelor's degree from University of Madrid (UPM) in civil engineering.
 
 Contributor to open source projects:
 - [Open Targets][]

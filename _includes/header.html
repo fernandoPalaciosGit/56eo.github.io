@@ -1,6 +1,6 @@
 {% if page.title == "Home"
    or page.title == "Blog"
-   or page.title == "Projects"
+   or page.title == "Team"
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
 
@@ -10,6 +10,7 @@
             <a class="link" href="{{ site.url }}/about">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
+
         {% else %}
             <span class="link">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
@@ -22,5 +23,6 @@
         {% include social-links.html %}
     </header>
 {% endif %}
+
 
 {% include nav.html %}
