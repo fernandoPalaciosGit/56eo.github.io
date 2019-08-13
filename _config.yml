@@ -39,6 +39,10 @@ permalink: /blog/:title.html
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: 56eo
+
+# twitter3: 56eo
+
+
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -46,14 +50,21 @@ twitter: 56eo
 # youtube: myyoutube
 # spotify: vivissima
 github: 56eo
+
+
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-# reddit: username
+# reddit
+# reddit1
+
+# redit3:
 # medium: elipapa
 # orcid: 0000-0002-2467-7759
-# vimeo: myvimeo
+
 email: 56eosustainable@gmail.com
+
+
 
 authors:
     56eo:
