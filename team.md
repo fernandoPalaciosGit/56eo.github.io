@@ -1,6 +1,6 @@
 ---
 title: Team
-layout: team
+layout: default
 ---
 <p align="center">
   <img src="/assets/images/MarioPalacios_Small.jpeg">
