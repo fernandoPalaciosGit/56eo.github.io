@@ -25,7 +25,7 @@ permalink: /blog/:title.html
 
 
 # To enable google analytics, supply your token below
-##analytics-google: 'UA-100695591-1'
+analytics-google: 'UA-145692099-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
