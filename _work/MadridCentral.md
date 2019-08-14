@@ -10,10 +10,10 @@ order: 1
 Madrid's City Hall have introduced new restrictions on traffic in the heart of the capital. This measurement was aligned with the air quality strategy for reducing the high values of pollution were matched last years in the town.
 
 #### Lifetime:
-**30th nov 2018**: Started
-**1st jul-30th sep 2019**: Right party, ciudadanos and vox want to apply a moratorium on sanctions  for citizens who enter in madrid
+* **30th nov 2018**: Started
+* **1st jul-30th sep 2019**: Right party, ciudadanos and vox want to apply a moratorium on sanctions  for citizens who enter in madrid
 Only from 1-8th jul 2019: it was admitted that moratorium bc several greenparties and institurions pushed.
-**Jul 2019**: Europe comission sentence Spain for: systematically violate "legal nitrogen dioxide (NO2) limits. Specially at Madrid, Barcelona y Vallès-Baix Llobregat.
+* **Jul 2019**: Europe comission sentence Spain for: systematically violate "legal nitrogen dioxide (NO2) limits. Specially at Madrid, Barcelona y Vallès-Baix Llobregat.
 
 #### Main points:
 472 hectares of the city center off-limits to traffic
@@ -22,7 +22,7 @@ Non-residents with appropriate energy labels
 exceptions are made for people with reduced mobility, ambulances, taxis, private-hire cars and delivery vans
 Electric vehicles will also be allowed
 Map restriction:
-https://elpais.com/elpais/2018/11/30/inenglish/1543565577_207058.amp.html
+* https://elpais.com/elpais/2018/11/30/inenglish/1543565577_207058.amp.html
 
 #### Expectation:
 will reduce emissions NOx by 30-40% as a result of eliminating through traffic and banning the biggest polluters from the area.
@@ -42,7 +42,7 @@ RESULTS(briefly documented app along time, WHAT DO WE EXPECT FROM)
 * https://twitter.com/AntjeInness/status/1154697090490142721?s=19
 
 
-#### MARKETING
+#### Marketing
 
 * Collaboration with “calida del aire comunidad de madrid”
 * Collaboration with TRAFICO. They can show along highways how one produces pollution and how that influence in his or her neighborhood.
@@ -52,21 +52,17 @@ RESULTS(briefly documented app along time, WHAT DO WE EXPECT FROM)
 * Principal responsible of mapping new european rights in meditarrean and associated with madrid central issue: @KarmenuVella
 * European comissioner and related with madrid case: @MAC_europa
 
-#### Outputs: @Pablo_Lion, #MadridCentral, @lalalalia, @Ferfollos, @Troposfera, @EeAmadrid,, @demadridcentral, .@MasMadridLGTBI @MasMadrid__ @MasCarabanchel @MasArganzuela @MasHortaleza ,          @MadridCentralFunciona
-@ClimateKICspain @itdupm,
-
-#### WORKFLOW
+#### Workflow
 * Download vector layer (neightborhoods, buildings)
 * Create Twitter 56eo and link to a broad fruitful network
 * Download sahpefile of “zona restringida de trafico”
 * GEE- extract NO2 or others or others
-
 * vectorizing all the tiffs via google earth engine to lighten workload ?-Ideally all the work is done on the platform itself, otherwise manually at home-
 Extract NO2 troposphere, not stratosphere, have a look pag 15-76 - TO KNOW
 
 
-#### APPS THAT ALREADY EXIST
-https://unearthed.greenpeace.org/2018/10/29/nitrogen-dioxide-no2-pollution-world-map/
-https://www.greenpeace.org.au/research/new-satellite-data-reveals-worlds-largest-air-pollution-emission-hotspots-greenpeace-media-briefing/
-https://geoservice.dlr.de/web/maps/s5p:tropomi:l3:daily
-https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-disasters/air-quality
+#### APPS that already exist
+* https://unearthed.greenpeace.org/2018/10/29/nitrogen-dioxide-no2-pollution-world-map/
+* https://www.greenpeace.org.au/research/new-satellite-data-reveals-worlds-largest-air-pollution-emission-hotspots-greenpeace-media-briefing/
+* https://geoservice.dlr.de/web/maps/s5p:tropomi:l3:daily
+* https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-disasters/air-quality
