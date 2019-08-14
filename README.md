@@ -1,7 +1,6 @@
-elipapa.github.io
+56eo.se
 =================
 
-my personal website, not that i really needed one.
 
 Uses [jekyll](http://jekyllrb.com/), [poole](http://getpoole.com/) and the [hyde](http://andhyde.com/) theme.
 
