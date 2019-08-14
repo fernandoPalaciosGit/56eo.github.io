@@ -3,13 +3,16 @@ title: MadridCentral
 externalLink:
 order: 1
 ---
-Prototype-Madrid Central
+#### Prototype-Madrid Central
 
-Background:
+
+![]({{ site.url }}/assets/images/Madrid_Central.gif)
+
+## Background:
 
 Madrid's City Hall have introduced new restrictions on traffic in the heart of the capital. This measurement was aligned with the air quality strategy for reducing the high values of pollution were matched last years in the town.
 
-Lifetime:
+## Lifetime:
 30th nov 2018: Started
 1st jul-30th sep 2019: Right party, ciudadanos and vox want to apply a moratorium on sanctions  for citizens who enter in madrid
 Only from 1-8th jul 2019: it was admitted that moratorium bc several greenparties and institurions pushed.
@@ -23,7 +26,7 @@ Electric vehicles will also be allowed
 Map restriction:
 https://elpais.com/elpais/2018/11/30/inenglish/1543565577_207058.amp.html
 
-Expectation:
+## Expectation:
 will reduce emissions NOx by 30-40% as a result of eliminating through traffic and banning the biggest polluters from the area.
 Even so, They only have one field station called “del Carmen” which measures air quality in the “zona restringida” among 24 stations around Madrid center. And after activating the restriction plan, Carmen's station got lower pollution values, even though the others stations continues increasing.
 Although, the first three months of 2019 have been the worst, only after 2011 and 2012. And we only can compare from 2011 because in 2010 the location office the measurement stations was changed.
@@ -95,9 +98,6 @@ Select one basemap with mapbox
 Visualization by cartodb
 See marketing
 
-RESULT
-
-![]({{ site.url }}/assets/images/Madrid_Central.gif)
 
 
 BACKGROUND
