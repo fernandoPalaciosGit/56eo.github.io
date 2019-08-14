@@ -16,7 +16,7 @@ layout: team
 </p>
 ## Roberto Beth
 * CTO & Founder
-GIS fanatic. Roberto completed his studies with a Bs’c in Forestry specializing in remote sensing at the UPV in Spain. Hereafter he completed a MS’c in Spatial Information Management at FH Karnten in Austria, specializing in Environmental Monitoring. During his time in Austria he was selected to develop his thesis as external researcher at the Texas A&M University in the US. His expertise are data workflows to process observation data and Decision Support Systems based on GIS. He worked as a GIS expert for the Swiss National Park and the EAWAG , developing a Multi Decision Support System to assess water management in Alpine Regions. At the moment he coordinates the GIS data intake and outtake for n-sea in the Netherlands, while he cooperates for 56EO.
+Roberto completed his studies with a Bs’c in Forestry specializing in remote sensing at the UPV in Spain. Hereafter he completed a MS’c in Spatial Information Management at FH Karnten in Austria, specializing in Environmental Monitoring. During his time in Austria he was selected to develop his thesis as external researcher at the Texas A&M University in the US. His expertise are data workflows to process observation data and Decision Support Systems based on GIS. He worked as a GIS expert for the Swiss National Park and the EAWAG , developing a Multi Decision Support System to assess water management in Alpine Regions. At the moment he coordinates the GIS data intake and outtake for n-sea in the Netherlands, while he cooperates for 56EO.
 
 {% include social-links-roberto.html %}
 
