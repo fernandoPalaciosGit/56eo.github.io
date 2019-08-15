@@ -25,6 +25,6 @@ layout: team
 </p>
 ## Jakolien van der Meer
 * R&D
-Applied mathematician with a PhD in Geosciences and Engineering. She is specialized in numerical analysis, fluid dynamics and optimization.
+AApplied mathematician with a specialization in numerical analysis and fluid dynamics, optimization and applied geosciences. Strong analytical skills and good at translating complex dynamic systems into manageable and computer controlled models. Thanks to my broad interest and problem solving ability, I can quickly master new areas of study. Besides, I am good at presenting my results, both written and orally, and through visualization.
 
 {% include social-links-jakolien.html %}
